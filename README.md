@@ -24,7 +24,7 @@ This project hosts files and code that can help illustrate concepts and ideas th
 ### Use vite to create a react app + typescript
 
 ```bash
-yarn create vite-app my-app --template react-ts
+yarn create vite my-app --template react-ts
 ```
 
 ### Run the project
