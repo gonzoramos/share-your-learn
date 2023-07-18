@@ -27,6 +27,12 @@ This project hosts files and code that can help illustrate concepts and ideas th
 yarn create vite my-app --template react-ts
 ```
 
+then go to that directory
+
+```bash
+cd my-app
+```
+
 ### Run the project
 
 ```bash
