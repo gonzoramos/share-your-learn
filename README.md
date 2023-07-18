@@ -1,4 +1,4 @@
-# Share your learn
+# Share your learn - A series
 
 This project hosts files and code that can help illustrate concepts and ideas that can hopefully be of use for peoples. No pressure.
 
@@ -6,6 +6,17 @@ This project hosts files and code that can help illustrate concepts and ideas th
 
 - [Node.js](<https://nodejs.org/en/>) - Gives us npm.
 - [Yarn](<https://yarnpkg.com/en/>) - To manage dependencies.
+
+## Nice to haves
+
+- [VSCode](<https://code.visualstudio.com/>) - THE code editor.
+
+### VSCode extensions
+
+- [Prettier](<https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode>) - Code formatter.
+- [Copilot](<https://marketplace.visualstudio.com/items?itemName=GitHub.copilot>) - AI pair programmer.
+- [Gitlens](<https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens>) - Git supercharged.
+- [Intellicoode](<https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode>) - AI assisted code completion.
 
 
 ## Share your learn 01
